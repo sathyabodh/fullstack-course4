@@ -30,8 +30,9 @@ body{
 }
 
 p{
-  width: 90%;
+  width: 95%;
   margin-top:20px;
+  padding:5px;
 }
 article{
   position: relative;
